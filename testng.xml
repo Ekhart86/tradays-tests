@@ -3,6 +3,6 @@
 
 <suite name="Тесты приложения Tradays" parallel="false" configfailurepolicy="continue">
     <suite-files>
-        <suite-file path="phone.xml"/>
+        <suite-file path="suite_1.xml"/>
     </suite-files>
 </suite>
